@@ -1,3 +1,7 @@
+This repo is mainly for understanding the DaPars source code better without
+modifying any logic
+
+
 DaPars(Dynamic analysis of Alternative PolyAdenylation from RNA-seq)
 ======
 
